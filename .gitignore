@@ -4,4 +4,4 @@
 *.pt
 __pycache__
 wandb
-.idea
+.idea/
